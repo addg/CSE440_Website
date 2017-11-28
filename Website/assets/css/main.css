@@ -1624,8 +1624,8 @@
 	}
 
 	body {
-		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/friends.png");
+		background-color: #ffffff;
+		background-image: linear-gradient(to top, rgba(255, 255, 255, 0.8), rgba(249, 118, 93, 0.75)), url("../../images/friends.png");
 		background-size: auto, cover;
 		background-attachment: fixed, fixed;
 		background-position: center, center;
@@ -2656,7 +2656,7 @@
 
 		.features article {
 			padding: 1em 1.75em 0.1em 1.75em ;
-			background-color: #353849;
+			background-color: #CCCCCC;
 			border-radius: 5px;
 			margin: 1.5em 1.5em 1.5em 0;
 			width: calc(50% - 1.5em);
@@ -2727,7 +2727,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgba(53, 56, 73, 0.95);
+		background-color: rgba(240, 219, 214, 0.95);
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -3118,7 +3118,7 @@
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
-				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+				background-image: linear-gradient(to top, rgba(255, 255, 255, 0.5), rgba(249, 118, 93, 0.8)), url("../../images/bg.jpg");
 				background-size: auto, cover;
 				background-position: center, center;
 				margin-bottom: -6.5em;
@@ -3619,8 +3619,8 @@
 	@media screen and (max-width: 1280px) {
 
 		#footer {
-			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-color: #ffffff;
+			background-image: linear-gradient(to top, rgba(249, 118, 93, 0.8), rgba(255, 255, 255, 0.8)), url("../../images/bg.jpg");
 			background-size: auto, cover;
 			background-position: center, center;
 			margin-top: -6.5em;
